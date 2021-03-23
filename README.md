@@ -1,6 +1,8 @@
 # SE450_JPaint_Project
 JPaint Application simulating the features of Windows-based Paint application. Technologies Used - Java 8 | AWT Swings
 
+![sprint1_UKQAyzdG](https://user-images.githubusercontent.com/19336011/112191527-1a917500-8bd4-11eb-8a0b-5980b7606b7d.gif)
+
 
 ![selectshape1_OzeYGSMo](https://user-images.githubusercontent.com/19336011/112184412-2f1e3f00-8bcd-11eb-96d5-4f8a76c5ac16.gif)
 
