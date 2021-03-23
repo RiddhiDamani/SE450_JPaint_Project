@@ -11,7 +11,8 @@ Sprint 2: Draw Rectangles, Ellipses, and Triangles.
             Outline Only – Only shape outline will be drawn. Use Primary Color to draw this. 
             Filled-In – Only the inside of the shape will be drawn – there will be no visible outline. Use Primary Color to draw this.
             Outline and Filled-In – Both the inside and the outline will be drawn. Use Primary Color for the inside and Secondary Color for the outline.
-            
+          Outline Selected Shapes
+          
 
 ![sprint1_UKQAyzdG](https://user-images.githubusercontent.com/19336011/112191527-1a917500-8bd4-11eb-8a0b-5980b7606b7d.gif)
 
@@ -26,4 +27,9 @@ Sprint 2: Move a shape. In Move Mouse Mode, clicking and dragging will offset an
 
 ![sprint3_chotQ3Z2](https://user-images.githubusercontent.com/19336011/112174359-59b7ca00-8bc4-11eb-9303-0a2f3e70b87b.gif)
 
+Sprint 3: Copy Shapes, Paste Shapes, Delete Shapes
 
+Sprint 4: - Undo : Undo the last operation. The following need to be Undoable: Draw, Move, Paste, Delete
+            Redo : Redo the last operation. See undo.
+
+![sprint4_LfUGsIpc](https://user-images.githubusercontent.com/19336011/112194982-6e518d80-8bd7-11eb-88c6-2657bd194fec.gif)
